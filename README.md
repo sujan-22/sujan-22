@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujan Rokad</h1>
 <h3 align="center">A dedicated software development student from Canada</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** & **Node.js**
 
 - My Portfolio website [https://my-portfolio-seven-ebon-10.vercel.app/](https://my-portfolio-seven-ebon-10.vercel.app/)
 
