@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **React.js** & **Node.js**
 
+- I love solving **Competitive Programming** questions
+
 - My Portfolio website [https://my-portfolio-seven-ebon-10.vercel.app/](https://my-portfolio-seven-ebon-10.vercel.app/)
 
 - 📫 How to reach me **sujanrokad@gmail.com**
