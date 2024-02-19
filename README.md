@@ -7,7 +7,7 @@
 
 - My Portfolio website [https://my-portfolio-seven-ebon-10.vercel.app/](https://my-portfolio-seven-ebon-10.vercel.app/)
 
-- 📫 How to reach me **sujanrokad@gmail.com**
+- 📫 How to reach me **sujan-vipulbhai.rokad@mohawkcollege.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
